@@ -1,0 +1,299 @@
+
+  100  mkdir server_lesson && cd server_lesson
+  101  exit
+  102  vagrant ssh
+  103  cd /vagrat
+  104  pwd
+  105  cd /vagrant
+  106  mkdir server_lesson && cd server_lesson
+  107  pwd
+  108  ls -l
+  109  ls -al
+  110  sudo su –
+  111  ls-lfile.ext
+  112  npm config get prefix
+  113  exit
+  114  cd
+  115  pwd
+  116  cd /vagrant
+  117  pwd
+  118  mkdir server_lesson && cd server_lesson
+  119  exit
+  120  pwd
+  121  cd /vagrant
+  122  mkdir server_lesson && cd server_lesson
+  123  exit
+  124  cd /vagrant
+  125  mkdir server_lesson && cd server_lesson
+  126  exit
+  127  cd /vagrant
+  128  pwd
+  129  mkdir server_lesson && cd server_lesson
+  130  vagrant version
+  131  exit
+  132  cd /vagrant
+  133  mkdir server_lesson && cd server_lesson
+  134  exit
+  135  cd /vagrant
+  136  mkdir server_lesson && cd server_lesson
+  137  ls -la
+  138  exit
+  139  sudo mkdir server_lesson && cd server_lesson
+  140  pwd
+  141  rm -r?server_lesson
+  142  pwd
+  143  rm /server_lesson
+  144  re -r /server_lesson
+  145  pwd
+  146  rm -r /server_lesson
+  147  rm /home/vagrant/server_lesson
+  148  pwd
+  149  mv server_lesson vagrant/
+  150  ls
+  151  ls /
+  152  ls home
+  153  ls /home
+  154  rm server_lesson
+  155  rm
+  156  rm server_lesson
+  157  rm /server_lesson
+  158  rm -r /server_lesson
+  159  rm -r server_lesson
+  160  cd
+  161  pwd
+  162  rm -r server_lesson
+  163  pwd
+  164  ls /vagrant
+  165  pwd
+  166  cd /server_lesson
+  167  cd /vagrant
+  168  pwd
+  169  mkdir server_lesson && cd server_lesson
+  170  sudo mkdir server_lesson && cd server_lesson
+  171  pwd
+  172  git init
+  173  pwd
+  174  git init
+  175  exit
+  176  cd /vagrant
+  177  cd /server_lesson
+  178  pwd
+  179  cd/
+  180  cd.
+  181  cd
+  182  pwd
+  183  cd /vagrant
+  184  cd server_lesson
+  185  pwd
+  186  git init
+  187  cd sevae
+  188  cd server_lesson
+  189  cd /server_lesson
+  190  cd server_lesson
+  191  cd /vagrant/server_lesson
+  192  git init
+  193  pwd
+  194  git init
+  195  sudo yum -y groupinstall "development tools"
+  196  pwd
+  197  git init
+  198  touch first.txt
+  199  sudo cannot touchtouch first.txt
+  200  pwd
+  201  git init
+  202  touch first.txt
+  203  git status
+  204  git init
+  205  git status
+  206  git init
+  207  touch first.txt
+  208  brew install git
+  209  pwd
+  210  git init
+  211  touch first.txt
+  212  sudo touch first.txt
+  213  cd /vagrant
+  214  mkdir server_lesson/linux_practice/public
+  215  cd /vagrant
+  216  mkdir -p server_lesson/linux_practice/public
+  217  sudo mkdir -p server_lesson/linux_practice/public
+  218  ls server_lesson server_lesson/linux_practice
+  219  cd /vagrant
+  220  touch server_lesson/linux_practice/public/index.php
+  221  sudo touch server_lesson/linux_practice/public/index.php
+  222  ls server_lesson/linux_practice/public
+  223  cd /vagrant/server_lesson && ls
+  224  cd /vagrant/server_lesson/linux_practice/public
+  225  cp index.php index_bk.php
+  226  sudo cp index.php index_bk.php
+  227  ls
+  228  cd /vagrant/server_lesson/linux_practice
+  229  cp -r public tmp
+  230  sudo cp -r public tmp
+  231  ls ./ public tmp
+  232  cd /vagrant
+  233  mv server_lesson/linux_practice server_lesson/linux_practice1
+  234  sudo mv server_lesson/linux_practice server_lesson/linux_practice1
+  235  mkdir linux_practice2 linux_practice3
+  236  sudo mkdir linux_practice2 linux_practice3
+  237  mv ./linux_practice2 ./server_lesson
+  238  sudo mv ./linux_practice2 ./server_lesson
+  239  cd /vagrant/server_lesson/linux_practice1/tmp/
+  240  rm *_bk.php
+  241  cd /vagrant
+  242  rm server_lesson/first.txt
+  243  rm -r linux_practice3
+  244  ls server_lesson
+  245  cd /vagrant/server_lesson
+  246  echo '# サーバレッスン' > README.md
+  247  sudo echo '# サーバレッスン' > README.md
+  248  cd /vagrant/server_lesson
+  249  pwd
+  250  echo '# サーバレッスン' > README.md
+  251  sudo echo '# サーバレッスン' > README.md
+  252  echo 'Linuxプラクティス' >> README.md
+  253  echo '-----------------' >> README.md
+  254  cat README.md
+  255  cd /vagrant/server_lesson
+  256  echo '# サーバレッスン' > README.md
+  257  vi README.md
+  258  pwd
+  259  ls
+  260  vi README.md
+  261  echo '# サーバレッスン' > README.md
+  262  sudo echo '# サーバレッスン' > README.md
+  263  cd /vagrant/server_lesson
+  264  pwd
+  265  exit
+  266  cd /vagrant/server_lesson
+  267  echo '# サーバレッスン' > README.md
+  268  sudo sh -c /vagrant/server_lesson
+  269  sudo sh -c "server_lesson"
+  270  sudo sh -c "/vagrant/server_lesson"
+  271  echo '# サーバレッスン' > README.md
+  272  sudo sh -c "/server_lesson"
+  273  sudo sh -c echo '# サーバレッスン' > README.md
+  274  sudo sh -c 'echo '# サーバレッスン' > README.md'
+  275  cat README.md
+  276  pwd
+  277  ls /server_lesson
+  278  ls /
+  279  ls /vagrant
+  280  la /sever_lesson
+  281  ls /server_lesson
+  282  cat README.md
+  283  sudo cat README.md
+  284  echo '# サーバレッスン' > README.md
+  285  sudo sh -c "echo '# サーバレッスン' > README.md"
+  286  cat README.md
+  287  sudo sh -c "echo 'Linuxプラクティス' >> README.md"
+  288  sudo sh -c "echo '-----------------' >> README.md"
+  289  cat README.md
+  290  cd /vagrant/server_lesson
+  291  vi README.md
+  292  cat README.md
+  293  pwd
+  294  vi README.md
+  295  cat README.md
+  296  vi README.md
+  297  cat README.md
+  298  vi README.md
+  299  git remote -v
+  300  $ git branch
+  301  git branch
+  302  git init
+  303  git status
+  304  git config --global user.name "hideboug"
+  305  git config --global user.email "hidebou,gq@gmail.com"
+  306  git init
+  307  git add README.md
+  308  git init
+  309  remote -v
+  310  git remote -v
+  311  ls
+  312  cd linux_practice
+  313  cd /linux_practice
+  314  cd linux_practice1
+  315  ls
+  316  cd -
+  317  ls
+  318  git status
+  319  git config --global user.email "hidebou.gq@gmail.com"
+  320  git config --global user.email
+  321  git status
+  322  git add .
+  323  git init
+  324  cd .git
+  325  git status
+  326  pwd
+  327  git init
+  328  git init server_lesson
+  329  git commit -m "first commit" 
+  330  git remote add origin https://github.com/hideboug/server_lesson.git
+  331  git add README.md
+  332  sudo git init
+  333  git add README.md
+  334  sudo git add README.md
+  335  sudo git commit -m "first commit"
+  336  git satus
+  337  git status
+  338  git add first.txt
+  339  sudo git add first.txt
+  340  sudo git add linux_practice1/
+  341  git status
+  342  commit -m "first commit"
+  343  sudo commit -m "first commit"
+  344  sudo git commit -m "first commit"
+  345  git status
+  346  git push -u origin main
+  347  sudo git push -u origin main
+  348  git status
+  349  sudo git config --global user.name "hideboug"
+  350  sudo git config --global user.email hidebou.gq@gmail.com
+  351  git commit --amend --reset-author
+  352  sudo git commit --amend --reset-author
+  353  git status
+  354  sudo git status
+  355  sudo git remote add origin https://github.com/hideboug/server_lesson.git
+  356  sudo git push -u origin main
+  357  sudo git remote add origin https://github.com/hideboug/server_lesson.git
+  358  sudo git push -u origin main
+  359  sudo git branch -M main
+  360  sudo git remote add origin https://github.com/hideboug/server_lesson.git
+  361  sudo git push -u origin main
+  362  cd /server_lesson/linux_practice2
+  363  cd server_lesson/linux_practice2
+  364  pwd
+  365  cd /vagrant/server_lesson/linux_practice2
+  366  mkdir documents
+  367  sudo mkdir documents
+  368  cd /vagrant/server_lesson/linux_practice2/documents
+  369  touch gizumo{01..50}.md
+  370  sudo touch gizumo{01..50}.md
+  371  cd
+  372  cd /vagrant/server_lesson/linux_practice2
+  373  sudo mkdir trash
+  374  cd /vagrant/server_lesson/linux_practice2/trash
+  375  mv ./gizumo{20..40} ./trash
+  376  sudo mv ./gizumo{20..40} ./trash
+  377  sudo mv ./gizumo{20..40} ./linux_practice2/trash
+  378  sudo mv ./gizumo{20..40} ./server_lesson/linux_practice2/trash
+  379  sudo mv ./gizumo{20..40} ./vagrant/server_lesson/linux_practice2/trash
+  380  mv gizumo{20..40}.md trash
+  381  sudo mv gizumo{20..40}.md trash
+  382  sudo mv /gizumo{20..40}.md /trash
+  383  sudo mv ./gizumo{20..40}.md ./trash
+  384  sudo mv ./gizumo{20..40}.md/ trash
+  385  sudo mv ./gizumo{20..40}.md trash
+  386  sudo mv ./gizumo{20..40}.md ./server_lesson/trash
+  387  sudo mv ./gizumo{20..40}.md ./trash
+  388  sudo mv ./documents/gizumo{20..40}.md ./trash
+  389  sudo mv ./documents/gizumo{20..40}.md trash
+  390  pwd
+  391  sudo mv /vagrant/server_lesson/linux_practice2/documents/gizumo{20..40}.md /vagrant/server_lesson/linux_practice2/trash
+  392  ls
+  393  cd
+  394  cd /vagrant/server_lesson/linux_practice2
+  395  sudo touch .gitignore
+  396  vi .gitignore
+  397  history 300
